@@ -1,0 +1,1 @@
+A small set of aliases have been added as a reference to get the beginners started.
