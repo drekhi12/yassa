@@ -9,4 +9,4 @@
 | :---:        |    :----:   |          :--- |
 | .bashrc      | none       | Contains various useful aliases which can come in handy while using linux on a daily basis   |
 | react_setup.sh   |  node, npm      | A simple vite setup environment to create vanillaJs, reactJs, vue, etc projects. To customise the script see https://vitejs.dev/guide/      |
-| _filename | _prerequisites | _description
+| sort_script.sh | none | A script to make your folder look clean by sorting all the .csv, .pdf, .doc, .pptx files in their separate  respective folder
