@@ -10,3 +10,4 @@
 | .bashrc      | none       | Contains various useful aliases which can come in handy while using linux on a daily basis   |
 | react_setup.sh   |  node, npm      | A simple vite setup environment to create vanillaJs, reactJs, vue, etc projects. To customise the script see https://vitejs.dev/guide/      |
 | sort_script.sh | none | A script to make your folder look clean by sorting all the .csv, .pdf, .doc, .pptx files in their separate  respective folder
+| nextJS_setup.sh | node, npm | A script to install a sample next-Js template for your next project. To customise the script, read next-Js documentation to provide extra parameters (https://nextjs.org/learn/basics/create-nextjs-app)
